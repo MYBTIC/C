@@ -8,7 +8,7 @@ Despues de haber creado nuestra carpetta Gitmarkdown en nuestro repositorio y ag
 Aprendimos los siguientes comandos en Markdown
 
 ___
-##### <div style="background-color:#FFFF00"> <h1 style ="color: #000000">***Tamaño de títulos*** </div>
+##### <div style="background-color:#FFFF00"> <h1 style ="color: #000000">***TamaÃ±o de tÃ­tulos*** </div>
 
 - Titulo  1:  #
 
@@ -20,9 +20,9 @@ ___
 
 - Titulo  5: #####
 
-### ***Diseño de texto***
+### ***DiseÃ±o de texto***
 
-Negritas command: ** la palabra **
+Negritas command: ** la palabra 
 
 Cursiva command: * koa *
 
@@ -35,7 +35,7 @@ Tachado command: ~~ Tachado ~~
 Tras 4 espaciados dispondemos nuestro texto en Un marco obscuro.
 
     Como se muestra a continuacion:_____"Lo que se deasea escribir", siendo(_) notacion de espaciado.
-### ***Marco con diseño de lenguajes de programación a gusto*** 
+### ***Marco con diseÃ±o de lenguajes de programaciÃ³n a gusto*** 
 Tras escribir 4 apostrofes, procedemos a escribir nuestro lenguaje deseado.
 
 ````cpp
@@ -58,7 +58,7 @@ printf("Hola mundo")
 - git add index.html => Agregar archivo personalizado
 - echo tmp.txt >> .gitignore => Ignorar un archivo
 - git status
-- echo .gitignore >> .gitignore => Ignorarse así mismo
+- echo .gitignore >> .gitignore => Ignorarse asÃ­ mismo
 - cat index.html => Que se encuentra dentro de mi archivo
 ---
 [ ] Codigo dentro de .gitignore para dejar de seguir archivos con terminacion general.
