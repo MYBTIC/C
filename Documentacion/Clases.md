@@ -145,7 +145,9 @@ printf("Hola mundo")
 
 - ``git push``
 
-                                                   -Nota-
-                                                   De esta manera llevaremos nuestros proyectos en orden y con seguridad de no perderlos.
+````
+-Nota-
 
+De esta manera llevaremos nuestros proyectos en orden y con seguridad de no perderlos.
+````
 ---
