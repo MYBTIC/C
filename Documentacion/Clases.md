@@ -2,13 +2,13 @@
 ##### Maximiliano Madrid Benavides
 # <h1 style="color: #7FFF00"> CLASE 3 - Git + Markdown
 
-Despues de haber creado nuestra carpetta Gitmarkdown en nuestro repositorio y agregarlo a nueestro editor Visual Studio Code
+Despues de haber creado nuestra carpeta Gitmarkdown en nuestro repositorio y agregarlo a  editor Visual Studio Code
 
 
 Aprendimos los siguientes comandos en Markdown
 
 ___
-##### <div style="background-color:#FFFF00"> <h1 style ="color: #000000">***Tama√±o de t√≠tulos*** </div>
+##### <div style="background-color:#FFFF00"> <h1 style ="color: #000000">***TamaÒo de ti≠tulos*** </div>
 
 - Titulo  1:  #
 
@@ -35,7 +35,7 @@ Tachado command: ~~ Tachado ~~
 Tras 4 espaciados dispondemos nuestro texto en Un marco obscuro.
 
     Como se muestra a continuacion:_____"Lo que se deasea escribir", siendo(_) notacion de espaciado.
-### ***Marco con dise√±o de lenguajes de programaci√≥n a gusto*** 
+### ***Marco con diseÒo de lenguajes de programaciÛn a gusto*** 
 Tras escribir 4 apostrofes, procedemos a escribir nuestro lenguaje deseado.
 
 ````cpp
@@ -113,9 +113,39 @@ printf("Hola mundo")
 
 1. Primero Nuestro codigo para ejecutar el compilador
 
-`g++ src/main.c -o output/main.exe`
+- `g++ src/main.c -o output/main.exe`
 
-![Hola](https://ibb.co/WnSWgYn)
+![Ejecutar compilador](https://i.stack.imgur.com/Feh9i.png)
 
-###### <div style="background-color:#F5F5DC"><h1 style="color: #0000CD"> LLevamos nuestros tags/ commits a la nube:
+2. Ordenar a git llevar seguimiento en nuestros archivos
 
+- `git add .`
+
+- `git add file/especificfile.vs`
+
+
+![Agregar a git](https://static.javatpoint.com/tutorial/git/images/git-add.png)
+
+3. Realizamos un tag/commit para empacar nuestros archivos. xd
+
+- ``git commit -m"Version practica"``
+
+![Etiquetar nuestros archivos](https://media.geeksforgeeks.org/wp-content/uploads/20220906212952/GitCommit1.jpg)
+
+
+
+**Por ultimo:**
+###### <div style="background-color:#F5F5DC"><h1 style="color: #0000CD"> LLevamos nuestros tags/ commits a la nube: </div>
+
+[ ] Para llevamar nuestro commit a la nube, utilizaremos el comando: 
+
+- ``git pull``
+
+[ ] Para traer nuestro commit de la nube, utilizaremos el comando:
+
+- ``git push``
+
+                                                   -Nota-
+                                                   De esta manera llevaremos nuestros proyectos en orden y con seguridad de no perderlos.
+
+---
