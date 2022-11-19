@@ -22,7 +22,7 @@ ___
 
 ### ***Diseño de texto***
 
-Negritas command: ** la palabra 
+Negritas command: ** la palabra **
 
 Cursiva command: * koa *
 
