@@ -77,7 +77,7 @@ Esto quiere decir tener hasta cierto punto en el tiempo, Todo nuestro trabajo ya
 
 ---
 
-##### 18 de noviembre del 2022
+ 18 de noviembre del 2022
 ##### Maximiliano Madrid Benavides
 # <h1 style="color:#8B0000">CLASE 4 - Intro To C
 
@@ -151,3 +151,38 @@ printf("Hola mundo")
 De esta manera llevaremos nuestros proyectos en orden y con seguridad de no perderlos.
 ````
 ---
+
+21 de noviembre del 2022
+##### Maximiliano Madrid Benavides
+
+# <h1 style="color:#FF1493">Clase 5 - Programar desde 0 </h1>
+
+El profe nos dio una introducción a la programación, donde puso a detalle de que manera debe estar organizado nuestro codigo en C: 
+
+````c
+
+#include<stdio.h>  //LIBRERIAS.
+
+void main(){
+
+printf("Hola Max"); //Variables globales
+
+}
+
+````
+>**Librerias  ¿Qué son, para que sirven?**
+
+Son espacios donde se encuentran todos los recursos, comandos que vamos a disponer al realizar nuestro script.
+
+#### <div style="background-color:#FFE4B5"> **Variables, ¿Qué son? y tipos de variables** </div>
+
+Es un espacio generada en la Ram donde se guarda algo.(Puede ir cambiando)
+
+#### ***Existen dos tipos de variables:***
+
+- Locales: Generalmente se encuentran dentro de llaves.
+- Globales: Se encuentran fuera de las llaves 
+
+### <h1 style="color:#FF0000"> Palabaras reservadas.- </h1>
+
+![Variables y su Tamaño](https://www.masqueteclas.com/wp-content/uploads/2015/12/Tipos.png)
